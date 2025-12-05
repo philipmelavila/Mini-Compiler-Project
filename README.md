@@ -5,11 +5,11 @@ This project takes an expression from input. Then it will print out a tree showi
 
 ## Project Summary / Setup Instructions
 
-Main.java: Main Function that takes expression and runs through the Lexer, Parser, Evaluator, and Tree Printer
-Lexer.java: Takes Input and Creates Tokens
-Parser.java: Creates nodes based on the tokens and creates the heirarchy
-Evaluator.java: Takes the nodes and evaluates the whole expression
-TreePrinter.java: Creates a tree, indented based on depth, and prints it out
+- Main.java: Main Function that takes expression and runs through the Lexer, Parser, Evaluator, and Tree Printer
+- Lexer.java: Takes Input and Creates Tokens
+- Parser.java: Creates nodes based on the tokens and creates the heirarchy
+- Evaluator.java: Takes the nodes and evaluates the whole expression
+- TreePrinter.java: Creates a tree, indented based on depth, and prints it out
 
 ## How to Run, Example Inputs
 
