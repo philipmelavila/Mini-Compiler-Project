@@ -2,6 +2,7 @@
 Author: Philip Melavila
 
 This project takes an expression from input. Then it will print out a tree showing the order of operations and evaluates the expression.
+SHOWCASE VIDEO: https://youtu.be/myK7_D-7oqc?si=HT0CGNqaWGIoSoKc
 
 ## Project Summary / Setup Instructions
 
